@@ -1,0 +1,6 @@
+students
+name
+string
+email
+string
+done
